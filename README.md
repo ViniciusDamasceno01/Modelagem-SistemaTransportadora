@@ -1,4 +1,4 @@
-## 🧩 Modelagem do Sistema Transportadora
+## 🚚 Modelagem do Sistema Transportadora
 
 Abaixo está a modelagem visual do sistema desenvolvida para representar os principais componentes e fluxos da transportadora:
 
